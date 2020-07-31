@@ -17,7 +17,7 @@ Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
 updated at: ${new Date().toLocaleDateString()}
-</div>`
+</div>`;
 
   fs.writeFileSync('../README.md', newReadme);
-})()
+})();
