@@ -1,0 +1,10 @@
+{
+  "name": "update",
+  "version": "1.0.0",
+  "description": "Dynamic Readme",
+  "main": "index.js",
+  "author": "Ibrahim",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

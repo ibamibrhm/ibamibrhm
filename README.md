@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello! I'm Ibrahim.
 
-<!--
-**ibamibrhm/ibamibrhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm Software Engineer who loves build whatever I wants, from cool things to silly things. <br>
+You can check all my works at: [ibam.tech](https://ibam.tech/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+The content below is schedully updated with Github Actions
+
+    Kata-kata itu selalu menagih padaku ia selalu berkata: Kau masih hidup! Aku memang masih utuh dan kata-kata belum binasa
+
+    - Widji Thukul
+
+Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
+
+<div dir="rtl">
+updated at: 7/31/2020
+</div>

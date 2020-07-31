@@ -1,0 +1,42 @@
+name: update-readme
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # Every day at 00:00
+    - cron: '0 0 * * *'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Installing dependencies
+        run: |
+          cd ${GITHUB_WORKSPACE}/update/
+          npm ci
+      - name: 🍳 Updating README
+        run: |
+          cd ${GITHUB_WORKSPACE}/update/
+          node index.js
+      - name: 🚀 Deploy
+        # I prefer not using my GitHub user because I don't want this commit added to my GitHub activity.
+        # If you want this added to your github activity, you can change git config with:
+        # git config user.name "${GITHUB_ACTOR}"
+        # git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        run: |
+          git config user.name "readme_updater"
+          git config user.email "readme_updater@users.noreply.github.com"
+          git add .
+          git commit -am "Update dynamic content"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
