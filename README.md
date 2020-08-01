@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Apa penguasa kira ingatan bisa dikubur dan dibendung dengan moncong tank
+    Kata-kata telah dilawan dengan senjata. Aku muak dengan gaya keamanan semacam ini
 
-    - Widji Thukul
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/31/2020
+updated at: 8/1/2020
 </div>
