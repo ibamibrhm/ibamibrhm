@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Ingatlah! Bahwa dari dalam kubur, suara saya akan lebih keras daripada dari atas bumi
+    Apa yang bisa dilakukan oleh penyair bila setiap kata telah dilawan dengan kekuasaan?
 
-    - Tan Malaka
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/2/2020
+updated at: 8/3/2020
 </div>
