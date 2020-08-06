@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Aku bertanya, tetapi pertanyaan-pertanyaanku membentur meja kekuasaan yang macet. Dan papan tulis papan tulis para pendidik yang terlepas dari persoalan kehidupan. Apakah artinya berpikir bila terpisah dari masalah kehidupan?
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
-    - W.S. Rendra
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/5/2020
+updated at: 8/6/2020
 </div>
