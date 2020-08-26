@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Politik adalah cara merampok dunia. Politik adalah cara menggulingkan kekuasaan, untuk menikmati giliran berkuasa
+    Bila rakyat tidak berani mengeluh itu artinya sudah gawat, dan bila omongan penguasa tidak boleh dibantah kebenaran pasti terancam
 
-    - W.S. Rendra
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/25/2020
+updated at: 8/26/2020
 </div>
