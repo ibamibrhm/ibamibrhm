@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Ingatlah! Bahwa dari dalam kubur, suara saya akan lebih keras daripada dari atas bumi
+    Apabila usul ditolak tanpa ditimbang, suara dibungkam, kritik dilarang tanpa alasan, dituduh subversif dan mengganggu keamanan, maka hanya ada satu kata: lawan!
 
-    - Tan Malaka
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/31/2020
+updated at: 9/1/2020
 </div>
