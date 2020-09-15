@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata telah dilawan dengan senjata. Aku muak dengan gaya keamanan semacam ini
+    Suara-suara itu tak bisa dipenjarakan, disana bersemayam kemerdekaan, apabila engkau memaksa diam, aku siapkan untukmu pemberontakan!
 
-    - W.S. Rendra
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/14/2020
+updated at: 9/15/2020
 </div>
