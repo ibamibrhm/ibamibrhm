@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
+    Dalam keyakinan kami di manapun – tirani harus tumbang!
 
-    - Soe Hok Gie
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/19/2020
+updated at: 9/20/2020
 </div>
