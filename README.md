@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Sesungguhnya suara itu bukan perampok yang ingin merayah hartamu, ia ingin bicara mengapa kau kokang senjata dan gemetar ketika suara-suara itu menuntut keadilan?
+    Jika kau menghamba kepada ketakutan, kita memperpanjang barisan perbudakan
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/23/2020
+updated at: 9/24/2020
 </div>
