@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata itu selalu menagih padaku ia selalu berkata: Kau masih hidup! Aku memang masih utuh dan kata-kata belum binasa
+    Apabila kritik hanya boleh lewat saluran resmi, maka hidup akan menjadi sayur tanpa garam. Lembaga pendapat umum tidak mengandung pertanyaan. Tidak mengandung perdebatan dan akhirnya menjadi monopoli kekuasaan
 
-    - Widji Thukul
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/25/2020
+updated at: 9/26/2020
 </div>
