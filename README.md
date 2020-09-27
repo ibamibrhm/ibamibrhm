@@ -16,5 +16,5 @@ The content below is schedully updated with Github Actions
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/26/2020
+updated at: 9/27/2020
 </div>
