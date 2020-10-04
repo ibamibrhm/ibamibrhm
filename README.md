@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata telah dilawan dengan senjata. Aku muak dengan gaya keamanan semacam ini
+    Politik adalah cara merampok dunia. Politik adalah cara menggulingkan kekuasaan, untuk menikmati giliran berkuasa
 
     - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/3/2020
+updated at: 10/4/2020
 </div>
