@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Ini adalah kesewenang-wenangan dengan mempergunakan undang-undang sebagai sendjata
+    Negeri ini, Republik Indonesia, bukanlah milik suatu golongan, bukan milik suatu agama, bukan milik suatu kelompok etnis, bukan juga milik suatu adat-istiadat tertentu, tapi milik kita semua dari Sabang sampai Merauke!
 
     - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/7/2020
+updated at: 10/8/2020
 </div>
