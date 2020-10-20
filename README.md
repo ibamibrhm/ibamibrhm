@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Suara-suara itu tak bisa dipenjarakan, disana bersemayam kemerdekaan, apabila engkau memaksa diam, aku siapkan untukmu pemberontakan!
+    Lebih baik diasingkan daripada menyerah pada kemunafikan
 
-    - Widji Thukul
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/19/2020
+updated at: 10/20/2020
 </div>
