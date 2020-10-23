@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Ini adalah kesewenang-wenangan dengan mempergunakan undang-undang sebagai sendjata
+    Saya putuskan bahwa saya akan demonstrasi. Karena mendiamkan kesalahan adalah kejahatan
 
-    - Soekarno
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/22/2020
+updated at: 10/23/2020
 </div>
