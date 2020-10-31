@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
+    Apa penguasa kira selamanya ia berkuasa? Tidak! Tuntutan kita akan lebih panjang umur ketimbang usia penguasa
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/30/2020
+updated at: 10/31/2020
 </div>
