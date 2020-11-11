@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Apa penguasa kira ingatan bisa dikubur dan dibendung dengan moncong tank
+    Saya putuskan bahwa saya akan demonstrasi. Karena mendiamkan kesalahan adalah kejahatan
 
-    - Widji Thukul
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/10/2020
+updated at: 11/11/2020
 </div>
