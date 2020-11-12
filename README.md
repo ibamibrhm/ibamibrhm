@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Saya putuskan bahwa saya akan demonstrasi. Karena mendiamkan kesalahan adalah kejahatan
+    Ingatlah! Bahwa dari dalam kubur, suara saya akan lebih keras daripada dari atas bumi
 
-    - Soe Hok Gie
+    - Tan Malaka
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/11/2020
+updated at: 11/12/2020
 </div>
