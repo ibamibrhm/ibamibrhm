@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Apabila kritik hanya boleh lewat saluran resmi, maka hidup akan menjadi sayur tanpa garam
+    Jika aku menulis dilarang, aku akan menulis dengan tetes darah!
 
-    - W.S. Rendra
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/13/2020
+updated at: 11/14/2020
 </div>
