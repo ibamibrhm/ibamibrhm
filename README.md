@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Dalam keyakinan kami di manapun – tirani harus tumbang!
+    Jika kau tak berani lagi bertanya kita akan jadi korban keputusan-keputusan, jangan kau penjarakan ucapanmu
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/30/2020
+updated at: 12/1/2020
 </div>
