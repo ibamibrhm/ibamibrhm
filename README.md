@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
+    Jika kau tak berani lagi bertanya kita akan jadi korban keputusan-keputusan, jangan kau penjarakan ucapanmu
 
-    - Soekarno
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 12/28/2020
+updated at: 12/29/2020
 </div>
