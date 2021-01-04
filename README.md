@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Apa penguasa kira ingatan bisa dikubur dan dibendung dengan moncong tank
+    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
 
-    - Widji Thukul
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/3/2021
+updated at: 1/4/2021
 </div>
