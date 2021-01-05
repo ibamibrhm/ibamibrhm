@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
+    Lebih baik diasingkan daripada menyerah pada kemunafikan
 
     - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/4/2021
+updated at: 1/5/2021
 </div>
