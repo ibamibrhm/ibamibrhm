@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Lebih baik diasingkan daripada menyerah pada kemunafikan
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
-    - Soe Hok Gie
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/5/2021
+updated at: 1/6/2021
 </div>
