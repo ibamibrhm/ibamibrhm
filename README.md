@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Apabila kritik hanya boleh lewat saluran resmi, maka hidup akan menjadi sayur tanpa garam. Lembaga pendapat umum tidak mengandung pertanyaan. Tidak mengandung perdebatan dan akhirnya menjadi monopoli kekuasaan
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
-    - W.S. Rendra
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/13/2021
+updated at: 1/14/2021
 </div>
