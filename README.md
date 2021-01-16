@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Dalam keyakinan kami di manapun – tirani harus tumbang!
+    Lebih baik diasingkan daripada menyerah pada kemunafikan
 
-    - Widji Thukul
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/15/2021
+updated at: 1/16/2021
 </div>
