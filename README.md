@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Jika aku menulis dilarang, aku akan menulis dengan tetes darah!
+    Ingatlah! Bahwa dari dalam kubur, suara saya akan lebih keras daripada dari atas bumi
 
-    - Widji Thukul
+    - Tan Malaka
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/24/2021
+updated at: 1/25/2021
 </div>
