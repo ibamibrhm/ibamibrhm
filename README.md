@@ -9,12 +9,12 @@ You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
 
 The content below is schedully updated with Github Actions
 
-    Hanya ada dua pilihan: menjadi apatis atau mengikuti arus. Tapi, aku memilih untuk jadi manusia merdeka
+    Sesungguhnya suara itu bukan perampok yang ingin merayah hartamu, ia ingin bicara mengapa kau kokang senjata dan gemetar ketika suara-suara itu menuntut keadilan?
 
-    - Soe Hok Gie
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 1/26/2021
+updated at: 1/27/2021
 </div>
