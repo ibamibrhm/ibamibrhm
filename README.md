@@ -3,15 +3,15 @@
 ---
 
 I'm Software Engineer who loves build whatever I wants, from cool things to silly things. <br>
-You can check all my works at: [www.ibam.tech](https://www.ibam.tech/)
+You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 ---
 
 The content below is schedully updated with Github Actions
 
-    Bila rakyat tidak berani mengeluh itu artinya sudah gawat, dan bila omongan penguasa tidak boleh dibantah kebenaran pasti terancam
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
-    - Widji Thukul
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
