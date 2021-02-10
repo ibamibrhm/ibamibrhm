@@ -9,12 +9,12 @@ You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 The content below is schedully updated with Github Actions
 
-    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
+    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
 
-    - Soekarno
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/9/2021
+updated at: 2/10/2021
 </div>
