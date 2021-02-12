@@ -9,12 +9,12 @@ You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 The content below is schedully updated with Github Actions
 
-    Jika kau tak berani lagi bertanya kita akan jadi korban keputusan-keputusan, jangan kau penjarakan ucapanmu
+    Sesungguhnya suara itu bukan perampok yang ingin merayah hartamu, ia ingin bicara mengapa kau kokang senjata dan gemetar ketika suara-suara itu menuntut keadilan?
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/11/2021
+updated at: 2/12/2021
 </div>
