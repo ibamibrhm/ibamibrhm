@@ -9,12 +9,12 @@ You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 The content below is schedully updated with Github Actions
 
-    Kemerdekaan sauatu negara dapat dijamin teguh berdiri apabila berpangkal pada kemerdekaan jiwa
+    Apabila usul ditolak tanpa ditimbang, suara dibungkam, kritik dilarang tanpa alasan, dituduh subversif dan mengganggu keamanan, maka hanya ada satu kata: lawan!
 
-    - Buya Hamka
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/13/2021
+updated at: 2/14/2021
 </div>
