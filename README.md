@@ -9,12 +9,12 @@ You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 The content below is schedully updated with Github Actions
 
-    Politik adalah cara merampok dunia. Politik adalah cara menggulingkan kekuasaan, untuk menikmati giliran berkuasa
+    Sesungguhnya suara itu bukan perampok yang ingin merayah hartamu, ia ingin bicara mengapa kau kokang senjata dan gemetar ketika suara-suara itu menuntut keadilan?
 
-    - W.S. Rendra
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/19/2021
+updated at: 2/20/2021
 </div>
