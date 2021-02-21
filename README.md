@@ -9,12 +9,12 @@ You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 The content below is schedully updated with Github Actions
 
-    Sesungguhnya suara itu bukan perampok yang ingin merayah hartamu, ia ingin bicara mengapa kau kokang senjata dan gemetar ketika suara-suara itu menuntut keadilan?
+    Ingatlah! Bahwa dari dalam kubur, suara saya akan lebih keras daripada dari atas bumi
 
-    - Widji Thukul
+    - Tan Malaka
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/20/2021
+updated at: 2/21/2021
 </div>
