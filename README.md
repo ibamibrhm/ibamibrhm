@@ -9,12 +9,12 @@ You can check all my works at: [www.ibrahimis.me](https://www.ibrahimis.me/)
 
 The content below is schedully updated with Github Actions
 
-    Suara-suara itu tak bisa dipenjarakan, disana bersemayam kemerdekaan, apabila engkau memaksa diam, aku siapkan untukmu pemberontakan!
+    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 3/3/2021
+updated at: 3/4/2021
 </div>
