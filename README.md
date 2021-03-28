@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
+    Saya putuskan bahwa saya akan demonstrasi. Karena mendiamkan kesalahan adalah kejahatan
 
-    - Soekarno
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 3/27/2021
+updated at: 3/28/2021
 </div>
