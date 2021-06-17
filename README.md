@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Apa yang bisa dilakukan oleh penyair bila setiap kata telah dilawan dengan kekuasaan?
+    Apabila kritik hanya boleh lewat saluran resmi, maka hidup akan menjadi sayur tanpa garam
 
     - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 6/16/2021
+updated at: 6/17/2021
 </div>
