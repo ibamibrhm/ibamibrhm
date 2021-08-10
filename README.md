@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Jika kau menghamba kepada ketakutan, kita memperpanjang barisan perbudakan
+    Apa yang bisa dilakukan oleh penyair bila setiap kata telah dilawan dengan kekuasaan?
 
-    - Widji Thukul
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/9/2021
+updated at: 8/10/2021
 </div>
