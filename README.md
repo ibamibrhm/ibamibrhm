@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kemerdekaan hanyalah diperdapat dan dimiliki oleh bangsa yang jiwanya berkobar dengan tekad merdeka, merdeka atau mati!
+    Apabila kritik hanya boleh lewat saluran resmi, maka hidup akan menjadi sayur tanpa garam. Lembaga pendapat umum tidak mengandung pertanyaan. Tidak mengandung perdebatan dan akhirnya menjadi monopoli kekuasaan
 
-    - Soekarno
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/12/2021
+updated at: 8/13/2021
 </div>
