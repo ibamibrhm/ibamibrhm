@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Hanya ada dua pilihan: menjadi apatis atau mengikuti arus. Tapi, aku memilih untuk jadi manusia merdeka
+    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
 
     - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/15/2021
+updated at: 8/16/2021
 </div>
