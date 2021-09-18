@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
+    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
 
-    - Soe Hok Gie
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/17/2021
+updated at: 9/18/2021
 </div>
