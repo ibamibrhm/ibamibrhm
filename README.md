@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kemerdekaan sauatu negara dapat dijamin teguh berdiri apabila berpangkal pada kemerdekaan jiwa
+    Kata-kata telah dilawan dengan senjata. Aku muak dengan gaya keamanan semacam ini
 
-    - Buya Hamka
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/24/2021
+updated at: 9/25/2021
 </div>
