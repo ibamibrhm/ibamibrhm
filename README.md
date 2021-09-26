@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata telah dilawan dengan senjata. Aku muak dengan gaya keamanan semacam ini
+    Kemerdekaan hanyalah diperdapat dan dimiliki oleh bangsa yang jiwanya berkobar dengan tekad merdeka, merdeka atau mati!
 
-    - W.S. Rendra
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/25/2021
+updated at: 9/26/2021
 </div>
