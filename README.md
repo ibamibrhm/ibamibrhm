@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Apa penguasa kira selamanya ia berkuasa? Tidak! Tuntutan kita akan lebih panjang umur ketimbang usia penguasa
+    Kau paksa aku terus menunduk tapi keputusan tambah tegak
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/6/2021
+updated at: 10/7/2021
 </div>
