@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Lebih baik diasingkan daripada menyerah pada kemunafikan
+    Kita seolah-olah merayakan demokrasi, tetapi memotong lidah orang-orang yang berani menyatakan pendapat mereka yang merugikan pemerintah
 
     - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/10/2021
+updated at: 10/11/2021
 </div>
