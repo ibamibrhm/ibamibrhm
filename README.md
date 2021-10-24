@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Ini adalah kesewenang-wenangan dengan mempergunakan undang-undang sebagai sendjata
+    Jika aku menulis dilarang, aku akan menulis dengan tetes darah!
 
-    - Soekarno
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/23/2021
+updated at: 10/24/2021
 </div>
