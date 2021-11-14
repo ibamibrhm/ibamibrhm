@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kemerdekaan hanyalah diperdapat dan dimiliki oleh bangsa yang jiwanya berkobar dengan tekad merdeka, merdeka atau mati!
+    Apa penguasa kira selamanya ia berkuasa? Tidak! Tuntutan kita akan lebih panjang umur ketimbang usia penguasa
 
-    - Soekarno
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/13/2021
+updated at: 11/14/2021
 </div>
