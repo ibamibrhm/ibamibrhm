@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kemerdekaan sauatu negara dapat dijamin teguh berdiri apabila berpangkal pada kemerdekaan jiwa
+    Kata-kata itu selalu menagih padaku ia selalu berkata: Kau masih hidup! Aku memang masih utuh dan kata-kata belum binasa
 
-    - Buya Hamka
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/24/2021
+updated at: 11/25/2021
 </div>
