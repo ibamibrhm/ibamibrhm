@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Jika aku menulis dilarang, aku akan menulis dengan tetes darah!
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
-    - Widji Thukul
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 12/18/2021
+updated at: 12/19/2021
 </div>
