@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Politik adalah cara merampok dunia. Politik adalah cara menggulingkan kekuasaan, untuk menikmati giliran berkuasa
+    Ingatlah! Bahwa dari dalam kubur, suara saya akan lebih keras daripada dari atas bumi
 
-    - W.S. Rendra
+    - Tan Malaka
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/3/2022
+updated at: 2/4/2022
 </div>
