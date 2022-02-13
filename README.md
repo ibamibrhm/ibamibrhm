@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata itu selalu menagih padaku ia selalu berkata: Kau masih hidup! Aku memang masih utuh dan kata-kata belum binasa
+    Bila rakyat tidak berani mengeluh itu artinya sudah gawat, dan bila omongan penguasa tidak boleh dibantah kebenaran pasti terancam
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 2/12/2022
+updated at: 2/13/2022
 </div>
