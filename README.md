@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata telah dilawan dengan senjata. Aku muak dengan gaya keamanan semacam ini
+    Hanya ada dua pilihan: menjadi apatis atau mengikuti arus. Tapi, aku memilih untuk jadi manusia merdeka
 
-    - W.S. Rendra
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 4/13/2022
+updated at: 4/14/2022
 </div>
