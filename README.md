@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Aku bertanya, tetapi pertanyaan-pertanyaanku membentur meja kekuasaan yang macet. Dan papan tulis papan tulis para pendidik yang terlepas dari persoalan kehidupan. Apakah artinya berpikir bila terpisah dari masalah kehidupan?
+    Kau paksa aku terus menunduk tapi keputusan tambah tegak
 
-    - W.S. Rendra
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 5/8/2022
+updated at: 5/9/2022
 </div>
