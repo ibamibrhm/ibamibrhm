@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
+    Apabila usul ditolak tanpa ditimbang, suara dibungkam, kritik dilarang tanpa alasan, dituduh subversif dan mengganggu keamanan, maka hanya ada satu kata: lawan!
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 5/29/2022
+updated at: 5/30/2022
 </div>
