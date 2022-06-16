@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kita seolah-olah merayakan demokrasi, tetapi memotong lidah orang-orang yang berani menyatakan pendapat mereka yang merugikan pemerintah
+    Suara-suara itu tak bisa dipenjarakan, disana bersemayam kemerdekaan, apabila engkau memaksa diam, aku siapkan untukmu pemberontakan!
 
-    - Soe Hok Gie
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 6/15/2022
+updated at: 6/16/2022
 </div>
