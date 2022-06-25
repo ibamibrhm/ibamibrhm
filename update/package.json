@@ -5,6 +5,6 @@
   "main": "index.js",
   "author": "Ibrahim",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
