@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kata-kata itu selalu menagih padaku ia selalu berkata: Kau masih hidup! Aku memang masih utuh dan kata-kata belum binasa
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
-    - Widji Thukul
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/6/2022
+updated at: 7/7/2022
 </div>
