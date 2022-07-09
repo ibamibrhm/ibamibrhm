@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kau paksa aku terus menunduk tapi keputusan tambah tegak
+    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
 
-    - Widji Thukul
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/8/2022
+updated at: 7/9/2022
 </div>
