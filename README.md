@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Saya tak mau jadi pohon bambu, saya mau jadi pohon oak yang berani menentang angin
+    Apa yang bisa dilakukan oleh penyair bila setiap kata telah dilawan dengan kekuasaan?
 
-    - Soe Hok Gie
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/12/2022
+updated at: 7/13/2022
 </div>
