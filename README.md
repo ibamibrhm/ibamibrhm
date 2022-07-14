@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Apa yang bisa dilakukan oleh penyair bila setiap kata telah dilawan dengan kekuasaan?
+    Aku bertanya, tetapi pertanyaan-pertanyaanku membentur meja kekuasaan yang macet. Dan papan tulis papan tulis para pendidik yang terlepas dari persoalan kehidupan. Apakah artinya berpikir bila terpisah dari masalah kehidupan?
 
     - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/13/2022
+updated at: 7/14/2022
 </div>
