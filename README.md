@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Jika kau tak berani lagi bertanya kita akan jadi korban keputusan-keputusan, jangan kau penjarakan ucapanmu
+    Kau paksa aku terus menunduk tapi keputusan tambah tegak
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/18/2022
+updated at: 7/19/2022
 </div>
