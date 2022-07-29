@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Politik adalah cara merampok dunia. Politik adalah cara menggulingkan kekuasaan, untuk menikmati giliran berkuasa
+    Hanya ada dua pilihan: menjadi apatis atau mengikuti arus. Tapi, aku memilih untuk jadi manusia merdeka
 
-    - W.S. Rendra
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 7/28/2022
+updated at: 7/29/2022
 </div>
