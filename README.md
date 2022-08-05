@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
+    Kemerdekaan sauatu negara dapat dijamin teguh berdiri apabila berpangkal pada kemerdekaan jiwa
 
-    - Widji Thukul
+    - Buya Hamka
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/4/2022
+updated at: 8/5/2022
 </div>
