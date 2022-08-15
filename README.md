@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Bila rakyat tidak berani mengeluh itu artinya sudah gawat, dan bila omongan penguasa tidak boleh dibantah kebenaran pasti terancam
+    Jika kau menghamba kepada ketakutan, kita memperpanjang barisan perbudakan
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 8/14/2022
+updated at: 8/15/2022
 </div>
