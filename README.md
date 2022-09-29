@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Apa penguasa kira ingatan bisa dikubur dan dibendung dengan moncong tank
+    Ini adalah kesewenang-wenangan dengan mempergunakan undang-undang sebagai sendjata
 
-    - Widji Thukul
+    - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 9/27/2022
+updated at: 9/29/2022
 </div>
