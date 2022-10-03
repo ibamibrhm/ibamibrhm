@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Apabila kritik hanya boleh lewat saluran resmi, maka hidup akan menjadi sayur tanpa garam
+    Dalam keyakinan kami di manapun – tirani harus tumbang!
 
-    - W.S. Rendra
+    - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/2/2022
+updated at: 10/3/2022
 </div>
