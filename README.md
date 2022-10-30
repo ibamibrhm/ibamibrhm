@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Jika aku menulis dilarang, aku akan menulis dengan tetes darah!
+    Suara-suara itu tak bisa dipenjarakan, di sana bersemayam kemerdekaan
 
     - Widji Thukul
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 10/29/2022
+updated at: 10/30/2022
 </div>
