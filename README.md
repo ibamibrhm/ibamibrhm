@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Jika aku menulis dilarang, aku akan menulis dengan tetes darah!
+    Politik adalah cara merampok dunia. Politik adalah cara menggulingkan kekuasaan, untuk menikmati giliran berkuasa
 
-    - Widji Thukul
+    - W.S. Rendra
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/8/2022
+updated at: 11/9/2022
 </div>
