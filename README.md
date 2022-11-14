@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Kemerdekaan hanyalah diperdapat dan dimiliki oleh bangsa yang jiwanya berkobar dengan tekad merdeka, merdeka atau mati!
+    Janganlah kita lupakan demi tujuan kita, bahwa para pemimpin berasal dari rakyat, dan bukan berada atas rakyat
 
     - Soekarno
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/13/2022
+updated at: 11/14/2022
 </div>
