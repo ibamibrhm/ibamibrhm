@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Bila rakyat tidak berani mengeluh itu artinya sudah gawat, dan bila omongan penguasa tidak boleh dibantah kebenaran pasti terancam
+    Hanya ada dua pilihan: menjadi apatis atau mengikuti arus. Tapi, aku memilih untuk jadi manusia merdeka
 
-    - Widji Thukul
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/18/2022
+updated at: 11/19/2022
 </div>
