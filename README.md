@@ -9,12 +9,12 @@ You can check all my works at: [ibrahim.id](https://ibrahim.id)
 
 The content below is schedully updated with Github Actions
 
-    Aku bertanya, tetapi pertanyaan-pertanyaanku membentur meja kekuasaan yang macet. Dan papan tulis papan tulis para pendidik yang terlepas dari persoalan kehidupan. Apakah artinya berpikir bila terpisah dari masalah kehidupan?
+    Saya putuskan bahwa saya akan demonstrasi. Karena mendiamkan kesalahan adalah kejahatan
 
-    - W.S. Rendra
+    - Soe Hok Gie
 
 Quote source: [API-perlawanan](https://github.com/ibamibrhm/api-perlawanan)
 
 <div dir="rtl">
-updated at: 11/29/2022
+updated at: 11/30/2022
 </div>
