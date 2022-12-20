@@ -18,9 +18,9 @@ jobs:
         with:
           fetch-depth: 1
       - name: Use Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: '12.x'
+          node-version: 18
       - name: Installing dependencies
         run: |
           cd ${GITHUB_WORKSPACE}/update/
